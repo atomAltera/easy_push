@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='easy_push',
-      version='0.1',
+      version='0.2',
       description='Python library for sending push notification to Android and iOS',
       url='https://github.com/atomAltera/easy_push',
       author='Konstantin Alikhanov',
